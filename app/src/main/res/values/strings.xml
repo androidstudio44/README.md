@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AmericanSchool</string>
+    <string name="app_title" translatable="false">American School</string>
+
+    <string name="app_subtitle">Школа иностранных языков</string>
+    <string name="news_titles">Новости:</string>
+    <string name="service_language">Языковые курсы</string>
+    <string name="service_camp">Летний лагерь</string>
+    <string name="service_talking">Толкин клаб</string>
+    <string name="service_toefl" translatable="false">Toefl</string>
+    <string name="services_title">Услуги:</string>
+    <string name="button_call">Позвонить</string>
+
+
+    <string name="service_language_descr" translatable="false">Описание языковые курсы</string>
+    <string name="service_camp_descr" translatable="false">Описание летний лагеря</string>
+    <string name="service_talking_descr" translatable="false">Описание talking club</string>
+    <string name="service_toefl_descr" translatable="false">Описание TOEFL услуги</string>
+
+</resources>
